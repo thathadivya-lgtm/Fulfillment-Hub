@@ -1,0 +1,3 @@
+exception_id,order_id,exception_type,sku,warehouse,description,owner,status,resolution,created_at
+EXC-ORD0001-0001,ORD0001,Insufficient stock,,,Required quantity is not available in the assigned warehouse.,Warehouse,Resolved,Stock has been shifted from secondary to Main to resolve out of stock issue.,2026-10-05 16:03:17.112138
+EXC-ORD0001-0002,ORD0001,Staging capacity,,,No staging location available for this packed order.,Warehouse,Resolved,Ready to pickup item has been handed to courier to make staging location available.,2026-10-05 16:23:38.451921
